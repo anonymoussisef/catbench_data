@@ -1,0 +1,2 @@
+tuned_sp0,tuned_gs0,tuned_stride,tuned_sp1,tuned_ls0,iterations,timeouts,compute_time,energy
+4096,16,2,1024,16,10,60000,198.704128,84.10546631934992
